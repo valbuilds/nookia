@@ -1,0 +1,11 @@
+title: Nookia
+description: A community-driven wiki for all things Animal Crossing!
+theme: just-the-docs
+
+url: https://just-the-docs.github.io
+baseurl: "/wiki"
+
+color_scheme: nookia_dark
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
